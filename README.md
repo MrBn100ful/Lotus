@@ -1,4 +1,4 @@
-# Lotus : A modern imageboard UI 
+# 🪷 Lotus : A modern imageboard UI 
 
 Build with the js framwork vite 
 
